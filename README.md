@@ -23,4 +23,3 @@ Here are the steps I will do for this analysis:
 3. Data quality check
 4. Data manipulation
 5. Data Analysis
-
